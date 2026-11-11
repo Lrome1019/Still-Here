@@ -8,7 +8,7 @@ Team **Still Here** · Ring App Challenge 2026–2027
 
 ---
 
-## 📖 About the Project
+## About
 
 People living with epilepsy, older adults, and anyone at risk of a sudden emergency at home share the same fear: *what if something happens and no one knows?* Today, many families cope by checking a camera feed over and over. That's exhausting for caregivers and invasive for the person being watched.
 
@@ -59,7 +59,7 @@ We're targeting the two **judge-scored** categories:
 
 ---
 
-## 👥 Team & Roles
+## Team & Roles
 
 | Member | Role | Owns |
 |---|---|---|
@@ -71,7 +71,7 @@ Everyone reviews pull requests, joins the weekly meeting, and helps test.
 
 ---
 
-## 🛠️ Tech Stack (proposed, to be confirmed once we have Ring developer docs)
+##  Tech Stack (proposed, to be confirmed once we have Ring developer docs)
 
 - **Ring:** Ring REST APIs, Ring sandbox (synthetic devices), Ring camera + sensor from the Challenge Kit
 - **Backend:** AWS (Lambda, API Gateway, DynamoDB, SNS for notifications). Language TBD (Python or Node.js).
@@ -101,7 +101,7 @@ still-here/
 
 ---
 
-## 🤝 How We Work
+## How We Work
 
 - **Communication:** Discord. Reply within 24 hours on weekdays.
 - **Weekly meeting:** one weeknight, 30 minutes. Review the board and assign tasks.
