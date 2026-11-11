@@ -14,11 +14,11 @@ People living with epilepsy, older adults, and anyone at risk of a sudden emerge
 
 **Still Here** replaces that constant checking with smart, respectful alerts. Using Ring cameras, Ring sensors, and Alexa, the app notices when something may be wrong, checks in with the user, and lets caregivers know only when it matters.
 
-> ⚠️ **Disclaimer:** Still Here is a safety-awareness tool, **not a medical device**. It does not diagnose seizures or replace medical care, and it never calls 911 without a person confirming.
+> **Disclaimer:** Still Here is a safety-awareness tool, **not a medical device**. It does not diagnose seizures or replace medical care, and it never calls 911 without a person confirming.
 
 ---
 
-## ✨ Core Features (MVP)
+## Core Features (MVP)
 
 | Feature | What it does |
 |---|---|
@@ -41,7 +41,7 @@ We're targeting the two **judge-scored** categories:
 
 ---
 
-## 📅 Timeline
+##  Timeline
 
 | Phase | Dates | Goal |
 |---|---|---|
