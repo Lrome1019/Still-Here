@@ -88,13 +88,13 @@ still-here/
 ├── README.md
 ├── AGENTS.md            # Shared context for any AI coding assistant
 ├── docs/
+│   ├── ARCHITECTURE.md  # ✅ System design, components, data flow, API spec
 │   ├── ROLES.md
 │   ├── SPRINTS.md
-│   ├── ARCHITECTURE.md
 │   ├── SECURITY_PRIVACY.md
 │   └── CONTRIBUTING.md
 ├── backend/
-├── mobile/
+├── mobile/              # ✅ React Native (Expo) user + caregiver app
 ├── alexa/
 └── design/
 ```
