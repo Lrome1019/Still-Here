@@ -45,9 +45,9 @@ We're targeting the two **judge-scored** categories:
 
 | Phase | Dates | Goal |
 |---|---|---|
-| Proposal | Submitted ✅ | — |
+| Proposal | Submitted  | — |
 | **Sprint 0: Setup & Learning** | Now → Dec 14, 2026 | Team, tools, design mockups, learn REST + AWS + Ring docs |
-| Finalists announced | Dec 14, 2026 | 🤞 |
+| Finalists announced | Dec 14, 2026 |  |
 | **Sprint 1: Foundations** | Dec 15 → Dec 28 | Ring sandbox connected, backend skeleton, app shell (holiday-light sprint) |
 | **Sprint 2: Core Flow** | Dec 29 → Jan 11 | Detection event → check-in → alert contacts, working end to end |
 | **Sprint 3: Features** | Jan 12 → Jan 25 | Bathroom timer, EMS display, event log, Alexa voice |
@@ -88,13 +88,13 @@ still-here/
 ├── README.md
 ├── AGENTS.md            # Shared context for any AI coding assistant
 ├── docs/
-│   ├── ARCHITECTURE.md  # ✅ System design, components, data flow, API spec
+│   ├── ARCHITECTURE.md  #  System design, components, data flow, API spec
 │   ├── ROLES.md
 │   ├── SPRINTS.md
 │   ├── SECURITY_PRIVACY.md
 │   └── CONTRIBUTING.md
 ├── backend/
-├── mobile/              # ✅ React Native (Expo) user + caregiver app
+├── mobile/              #  React Native (Expo) user + caregiver app
 ├── alexa/
 └── design/
 ```
