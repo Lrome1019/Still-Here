@@ -130,6 +130,19 @@ still-here/
 - Ring Content Policy: https://developer.amazon.com/docs/ring/content-policy.html
 - Questions for Ring: ring-app-challenge@amazon.com
 
+
 ---
 
 *We're students building something that could genuinely help people. Show up, communicate, and let's make it count.* 
+
+
+The Ring Partner API follows a RESTful architecture and uses the JSON: 
+
+API specification for most endpoints:
+
+Base URL: https://api.amazonvision.com
+Authentication: OAuth 2.0 access and refresh tokens. Access tokens last about 4 hours and refresh tokens about 30 days, rotating on every exchange. Read expires_in from the token response rather than hard-coding a lifetime.
+Format: JSON:API responses for most endpoints, with included relationships for efficient data loading.
+Rate Limiting: All endpoints are rate-limited. Implement exponential backoff on 429 responses.
+Webhooks: Server-to-server push notifications authenticated with HMAC-SHA256 signatures.
+
